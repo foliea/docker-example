@@ -6,4 +6,4 @@ COPY . $APP
 
 WORKDIR $APP
 
-ENTRYPOINT ["./run.sh"]
+CMD ["go", "run", "main.go"]

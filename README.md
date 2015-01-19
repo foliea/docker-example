@@ -3,8 +3,8 @@
 A dummy hello world example written in `go` running
 inside a [Docker](http://www.docker.com) container.
 
-This served as an example for
-[Golang Paris Meetup](http://www.meetup.com/Golang-Paris/events/219534237/).
+This served as an example for my talk *Introduction to containers and docker*
+at [Golang Paris Meetup](http://www.meetup.com/Golang-Paris/events/219534237/).
 
 ## Usage
 
@@ -15,7 +15,7 @@ This served as an example for
 ### Run
 
     docker run -t folieadrien/docker-example
-    
+
 ### Get a shell in the container
 
-    docker run -ti --entrypoint=/bin/bash folieadrien/docker-example
+    docker run -ti folieadrien/docker-example /bin/bash
