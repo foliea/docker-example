@@ -3,7 +3,7 @@
 A dummy hello world example written in `go` running
 inside a [Docker](http://www.docker.com) container.
 
-This served as an example for my talk *Introduction to containers and docker*
+This served as an example for my talk *Introduction to containers and Docker*
 at [Golang Paris Meetup](http://www.meetup.com/Golang-Paris/events/219534237/).
 
 ## Usage
