@@ -1,6 +1,6 @@
 FROM golang:1.4
 
-ENV APP $GOPATH/src/folieadrien/docker-example
+ENV APP $GOPATH/src/foliea/docker-example
 
 COPY . $APP
 
