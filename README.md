@@ -1,4 +1,5 @@
 # docker-example
+[![foliea/docker-example](http://dockeri.co/image/foliea/docker-example)](https://registry.hub.docker.com/u/foliea/docker-example/)
 
 A dummy hello world example written in `go` running
 inside a [Docker](http://www.docker.com) container.
